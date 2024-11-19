@@ -8,7 +8,7 @@ image: real-madrid.jpg
 # Real Madrid Club de Fútbol
 
 El **Real Madrid Club de Fútbol** es uno de los clubes más prestigiosos y exitosos del mundo, con una historia que ha dejado huella tanto en España como en la escena internacional. Fundado en **1902**, el club ha ganado numerosos títulos nacionales e internacionales, consolidándose como uno de los equipos más poderosos y populares.
-
+<img src="real-madrid.jpg" alt="imagen del real madrid">
 ## Historia
 
 El Real Madrid fue fundado el **6 de marzo de 1902** por los hermanos Padros. A lo largo de los años, el club ha sido testigo de momentos históricos que incluyen victorias en la **Liga Española**, la **Copa del Rey** y la **Liga de Campeones de la UEFA**.
